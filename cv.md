@@ -1,18 +1,18 @@
 # Yulia Lyapushkina
 
-### Contacts
+## Contacts
 **e-mail:** lyapuskinayulia84@gmail.com
 
 **tel:** +7-929-585-47-78
 *****
-### About Myself:
+## About Myself:
 
 I am a technical support engineer. I really like to study and learn something new. A year ago I became interested in programming and decided to study frontend development. I like challenging tasks. I am very happy when I manage to fulfill them.
 
 **My strengths:** perseverance, diligence, willingness to help, good memory
 *****
 
-### My Skils
+## My Skils
 
 - HTML
 - CSS
@@ -20,7 +20,7 @@ I am a technical support engineer. I really like to study and learn something ne
 - Basic React
 
 *****
-### Code Example 
+## Code Example 
 
 ```
 let a = 6;
@@ -33,7 +33,7 @@ multiply()
 
 ```
 *****
-### Education
+## Education
 
 **ItGirlsSchool**
 
@@ -43,7 +43,7 @@ multiply()
 - React (in process)
 
 *****
-### Languages
+## Languages
 
 - Russian (native)
 - English (Intermetiate)
